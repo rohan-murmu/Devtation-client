@@ -4,13 +4,6 @@ Devtation is a platform where developers can showcase their development projects
 
 ---
 
-## Live Demo
-
-Check out the live version of Devtation here:  
-👉 [https://devtation.rohanworks.com](https://devtation.rohanworks.com)
-
----
-
 ## Features
 
 1. **Project Showcase**:
